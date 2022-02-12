@@ -68,3 +68,8 @@ git branch -M main
 git push -u origin main
 
 git add .
+git commite -m "name repository"
+
+git diff
+git checkout
+
